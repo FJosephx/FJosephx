@@ -12,8 +12,8 @@ My main projects are based on web development with database integration.
 
 Each of these projects seek to approach the real world of the IT industry. 
 For example:
-- Project management platform
-- ecommerce platform for product sales
+- Project management platform.
+- E-Commerce platform for product sales.
 
 I also have repositories with projects where I experiment with new technologies, I like to learn new things and test my skills!
 

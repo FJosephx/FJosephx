@@ -1,25 +1,18 @@
+# Hi, I'm Franco Unda 👋
 
-# Hello! I'm Franco Unda
+**Computer Engineer · .NET Developer** based in Santiago, Chile.
 
+I build back-end systems with **C# and .NET**: REST APIs with ASP.NET Core, mobile apps with .NET MAUI, and SQL Server databases. I enjoy migrating legacy systems to modern stacks and making slow databases fast. I'm currently focusing on **back-end, software architecture and cloud**.
 
+### 🔧 What I've worked on
+- **Warehouse apps (Calper):** migrated a Xamarin app to .NET MAUI and tuned SQL Server indexes and stored procedures, cutting queries from 15 to 2 minutes.
+- **REST APIs (Netcore):** built endpoints in C# / .NET 7 on SQL Server, documented with Swagger, and migrated legacy modules to React + Vite.
+- **[Sinapta](https://sinapta.cl):** my independent studio. I build websites and admin panels for small businesses, using vanilla JS, Supabase (PostgreSQL with RLS, TOTP auth, Edge Functions) and Cloudflare Pages.
 
-## 🚀 About Me
-I am Franco Unda, a computer engineering student.
+### 🛠️ Tech
+`C#` `.NET 7/9/10` `ASP.NET Core` `.NET MAUI` `SQL Server` `T-SQL` `PostgreSQL` `Supabase` `Oracle PL/SQL` `React` `TypeScript` `JavaScript` `Docker` `Git` `Linux`
 
-I'm passionate about project management and development, but also programming!
+### 📚 Currently learning
+AWS Cloud Practitioner Essentials
 
-My main projects are based on web development with database integration.
-
-Each of these projects seek to approach the real world of the IT industry. 
-For example:
-- Project management platform.
-- E-Commerce platform for product sales.
-
-I also have repositories with projects where I experiment with new technologies, I like to learn new things and test my skills!
-
-I must emphasize that I have taken courses to improve and take advantage of the use of artificial intelligence for the automation of processes and tasks when developing and documenting projects, it is a complement and a great ally in these times, but we should not depend on it!
-
-
-## Github Stats
-![FJosephx's Stats](https://github-readme-stats.vercel.app/api?username=FJosephx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![FJosephx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FJosephx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+📫 [LinkedIn](https://linkedin.com/in/franco-unda) · [sinapta.cl](https://sinapta.cl)

@@ -14,5 +14,6 @@ I build back-end systems with **C# and .NET**: REST APIs with ASP.NET Core, mobi
 
 ### 📚 Currently learning
 AWS Cloud Practitioner Essentials
+AWS AI Practitioner
 
 📫 [LinkedIn](https://linkedin.com/in/franco-unda) · [sinapta.cl](https://sinapta.cl)

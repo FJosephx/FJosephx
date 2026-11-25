@@ -13,7 +13,7 @@ I build back-end systems with **C# and .NET**: REST APIs with ASP.NET Core, mobi
 `C#` `.NET 7/9/10` `ASP.NET Core` `.NET MAUI` `SQL Server` `T-SQL` `PostgreSQL` `Supabase` `Oracle PL/SQL` `React` `TypeScript` `JavaScript` `Docker` `Git` `Linux`
 
 ### 📚 Currently learning
-AWS Cloud Practitioner Essentials
-AWS AI Practitioner
+- AWS Cloud Practitioner Essentials
+- AWS AI Practitioner
 
 📫 [LinkedIn](https://linkedin.com/in/franco-unda) · [sinapta.cl](https://sinapta.cl)
